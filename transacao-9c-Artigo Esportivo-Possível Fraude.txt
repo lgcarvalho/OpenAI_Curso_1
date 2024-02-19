@@ -1,0 +1,11 @@
+Recomendação: 
+
+Com base na análise inicial que indica a transação Id "9c", tipo "Crédito" como uma "Possível Fraude", a seguinte ação é recomendada:
+
+1. Realizar Verificação Manual: Sendo o valor da transação substancialmente alto e observado no setor de Artigos Esportivos, uma transação fora do padrão observado, a Transação "9c" deve ser submetida a uma verificação manual adicional para confirmar a legitimidade da transação. 
+
+2. Acionar setor Anti-Fraude: Devido ao status de "Possível Fraude", o setor Anti-Fraude deve ser acionado para realizar uma investigação mais aprofundada sobre a atividade suspeita.
+
+3. Notificar Cliente: Como a transação foi marcada como suspeita, o cliente deve ser informado sobre a atividade suspeita em sua conta e confirmar se é uma transação legítima ou fraudulenta.
+
+Classificação do Tipo de Fraude: "Fraude de Compra Atípica". A atividade suspeita envolvendo uma compra de alto valor em um estabelecimento esportivo, que é uma ocorrência não habitual, se encaixa nessa categoria.

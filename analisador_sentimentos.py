@@ -6,7 +6,7 @@ import openai
 
 load_dotenv
 
-cliente = OpenAI(api_key = os.getenv("OPENAAI_API_KEY"))
+cliente = OpenAI(api_key = os.getenv("OPENAI_API_KEY"))
 
 modelo = "gpt-4"
 
